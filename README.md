@@ -86,4 +86,4 @@ Gained experience in designing dashboards aligned with real-world business use c
 
 SCREENSHOT/DEMO:
 https://github.com/goelkanak20/Netflix-Analysis-Structure-Tableau-/blob/main/netflix%20tableau.png
-
+https://github.com/goelkanak20/Netflix-Analysis-Structure-Tableau-/blob/main/netflix%20png%202.png
