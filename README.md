@@ -83,3 +83,6 @@ Strengthened hands-on skills in Tableau dashboard development.
 Learned how to convert raw data into actionable business insights.
 Improved understanding of data storytelling and visualization best practices.
 Gained experience in designing dashboards aligned with real-world business use cases.
+
+SCREENSHOT/DEMO:
+https://github.com/goelkanak20/Netflix-Analysis-Structure-Tableau-/blob/main/netflix%20tableau.png
